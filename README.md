@@ -1,2 +1,1 @@
-# Learn-Laravel
-Simple project using Laravel 8
+by : Rizki Maulana Y
